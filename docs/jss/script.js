@@ -45,3 +45,10 @@ $(".saveBtn").on("click", function() {
     // save description into local storage
     localStorage.setItem(time, description);
 })
+
+// load saved description from local storage
+
+$(".time-block").children(".description").each(function() {
+    console.log(this);
+    $(this).val(localStorage.getItem($(this).parent().attr("id")));
+})
