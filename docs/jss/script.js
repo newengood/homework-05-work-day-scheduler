@@ -30,3 +30,18 @@ function setHour() {
 
 // call function 
 setHour();
+
+// add event listener on save button when clicked to save 
+// description to local storage
+
+$(".saveBtn").on("click", function() {
+
+    // save text area on timeblock of clicked button
+    var description = $(this).siblings(".description").val();
+
+    // save time
+    var time = $(this).parent().attr("id");
+
+    // save description into local storage
+    localStorage.setItem(time, description);
+})
