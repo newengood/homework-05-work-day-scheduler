@@ -23,9 +23,9 @@ WHEN I refresh the page
 THEN the saved events persist - [X]
 ```
 
-![Screenshot of deployed application](./docs/images/05-third-party-apis-homework-demo.gif)
+![Screenshot of deployed application](./docs/images/screenshot.png)
 
-Link to deployed application:
+Link to deployed application: https://newengood.github.io/homework-05-work-day-scheduler/
 
 - - -
 © Newengood
