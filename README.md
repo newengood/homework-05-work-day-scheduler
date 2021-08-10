@@ -25,6 +25,7 @@ THEN the saved events persist - [X]
 
 ![Screenshot of deployed application](./docs/images/screenshot.png)
 
+Technologies used: HTML, CSS, JS, JQuery, Moment.JS
 Link to deployed application: https://newengood.github.io/homework-05-work-day-scheduler/
 
 - - -
