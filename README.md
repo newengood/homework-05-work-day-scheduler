@@ -32,3 +32,5 @@ Link to deployed application: https://newengood.github.io/homework-05-work-day-s
 MIT License
 
 Copyright (c) 2021 Newengood
+
+taylor@newengood.com
