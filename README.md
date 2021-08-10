@@ -28,4 +28,6 @@ THEN the saved events persist - [X]
 Link to deployed application: https://newengood.github.io/homework-05-work-day-scheduler/
 
 - - -
-© Newengood
+MIT License
+
+Copyright (c) 2021 Newengood
