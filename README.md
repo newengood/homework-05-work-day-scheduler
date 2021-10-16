@@ -26,7 +26,7 @@ THEN the saved events persist - [X]
 
 ![Screenshot of deployed application](./docs/images/screenshot.png)
 
-Link to deployed application: https://newengood.github.io/homework-05-work-day-scheduler/
+Link to deployed application: https://newengood.github.io/work-day-scheduler/
 
 - - -
 MIT License
